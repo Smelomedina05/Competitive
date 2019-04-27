@@ -1,4 +1,4 @@
-###10687-Amazon
+###10687-Amazon UVa
 ###Santiago Melo Medina
 
 from sys import stdin
